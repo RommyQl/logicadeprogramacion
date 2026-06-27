@@ -11,7 +11,7 @@ elif promedio>=13 and promedio<=16.9:
     print("admitido regular")
     print("matricula a pagar: S/150.00" )
     print (f"nombre{nombre}")  
-elif promedio<=13:
+else:
     print("lista de espera")
     print (f"nombre{nombre}")  
 
